@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahil Jethwa</h1>
 <h3 align="center">Always a student, looking to acquire new tech</h3>
 
-- 🔭 I’m currently working on *Restaurant Recommendation System*
+- 🔭 I’m currently working on *Microservices Implemented Restaurant Service*
 
-- 🌱 I’m currently learning *UI/UX and Next.js and Mobile App Development*
+- 🌱 I’m currently learning *Machine Learning and Spring Boot*
 
 - 👯 I’m looking to collaborate on *Android Project, Front-end Development*
 
